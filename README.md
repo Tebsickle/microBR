@@ -13,10 +13,13 @@ This datapack was made in parity to [SamsLootBoxes](https://github.com/Tebsickle
 
 The following is what happens over the course of the game.
 
-Minute 0: Border expands to 500 blocks over 2 minutes.
-Minute 2: Grace period ends. PvP is enabled.
-Minute 15: Border begins to shrink to 26 blocks over 5 minutes.
-Minute 20: Sudden death begins. All players are given the glowing effect.
+- Minute 0: Border expands to 500 blocks over 2 minutes.
+
+- Minute 2: Grace period ends. PvP is enabled.
+
+- Minute 15: Border begins to shrink to 26 blocks over 5 minutes.
+
+- Minute 20: Sudden death begins. All players are given the glowing effect.
 
 Anything that happens after sudden death is for you to find out. :)
 
